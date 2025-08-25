@@ -1,6 +1,6 @@
 # 🧵 Thread Priority Manager
 
-![Screenshot](<img width="982" height="672" alt="image" src="https://github.com/user-attachments/assets/cdc97409-1917-4a11-a34a-158774798b37" />)
+![Screenshot](<img width="982" height="672" alt="image" src="https://github.com/user-attachments/assets/36f58432-29a9-44c6-a4d1-eeb6c2ef602e" />)
 
 A simple **Windows process and thread priority manager** built with **C# (.NET 8, WinForms)**.  
 It allows you to list system processes, inspect individual threads, and apply custom priorities.
