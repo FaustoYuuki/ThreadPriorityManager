@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <UseWindowsForms>true</UseWindowsForms>
+    <Nullable>enable</Nullable>
+    <ApplicationManifest>app.manifest</ApplicationManifest>
+    <!-- Opcional: RuntimeIdentifier se quiser publicar específico para win-x64 -->
+    <!-- <RuntimeIdentifier>win-x64</RuntimeIdentifier> -->
+  </PropertyGroup>
+
+</Project>
