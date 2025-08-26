@@ -23,7 +23,7 @@ It allows you to list system processes, inspect individual threads, and apply cu
 ---
 
 ## ▶️ Build Instructions
-### Requirements (First Version Only)
+### Requirements
 - [SDK .NET 8.0](https://dotnet.microsoft.com/en-us/download/dotnet/8.0)  
 - Windows 10/11  
 - Visual Studio 2022 **or** just the `dotnet CLI`
